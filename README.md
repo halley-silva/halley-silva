@@ -1,27 +1,31 @@
-# 👩🏻‍💻 Halley Silva
 
-**`Desenvolvedor FRONT-END`**
 
-👋 Olá! Meu nome é Halley e sou um entusiasta de tecnologia e desenvolvimento web. Estou em constante aprendizado, explorando lógica de programação, JavaScript e criação de interfaces interativas. Gosto de unir criatividade e código, criando projetos com animações, temas espaciais e experiências visuais dinâmicas. Aqui você vai encontrar meus estudos, experimentos e evoluções como desenvolvedor — sempre buscando aprender algo novo e ir cada vez mais longe 🚀✨
-<div align="left">
-  <a href="https://www.instagram.com/hall_slv0?igsh=azlwazRjbmZpMWJu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="www.linkedin.com/in/halley-rodrigues-b60aa7396" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Halley+Silva;I+study+FRONT+END+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
+<hr>
+
+👋 Hi! My name is Halley and I'm a technology and web development enthusiast. I'm constantly learning, exploring programming logic, JavaScript, and creating interactive interfaces. I enjoy combining creativity and code, creating projects with animations, space themes, and dynamic visual experiences. Here you'll find my studies, experiments, and evolutions as a developer — always seeking to learn something new and go further and further 🚀✨
+
+<hr>
+
+
+
+<div> 
+  <a href="https://www.instagram.com/hall_slv0?igsh=azlwazRjbmZpMWJu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: halley67silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/halley-rodrigues-b60aa7396" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
----
-
-### 🤖 Linguagens e Tecnologias
+<h2>Applications</h2>
 
 <img 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -29,7 +33,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -37,12 +41,10 @@
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-
 
 
 
@@ -50,30 +52,25 @@
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="right" 
+    alt="Python" 
+    title="Python"
+    width="150px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1280px-Tux.svg.png?20251226180606" 
+/>
 
-</p>
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=18&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+my+profile!;Always+learning+and+evolving+🚀)](https://git.io/typing-svg)
