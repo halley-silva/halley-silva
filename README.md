@@ -6,14 +6,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/halley-silva/halley-silva/output/pacman-contribution-graph-dark.gif">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/halley-silva/halley-silva/output/pacman-contribution-graph.gif">
-  <img alt="pacman contribution graph" 
-       src="https://raw.githubusercontent.com/halley-silva/halley-silva/output/pacman-contribution-graph.gif">
-</picture>
+
 
 
 ###
